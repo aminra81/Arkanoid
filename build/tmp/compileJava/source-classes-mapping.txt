@@ -1,0 +1,45 @@
+ir/amin/arkanoid/Bricks/WoodenBrick.java
+ ir.amin.arkanoid.Bricks.WoodenBrick
+ir/amin/arkanoid/Bricks/PrizeBrick.java
+ ir.amin.arkanoid.Bricks.PrizeBrick
+ir/amin/arkanoid/Bricks/BlinkerBrick.java
+ ir.amin.arkanoid.Bricks.BlinkerBrick
+ir/amin/arkanoid/Prizes/Prize.java
+ ir.amin.arkanoid.Prizes.Prize
+ ir.amin.arkanoid.Prizes.Prize$1
+ir/amin/arkanoid/Bricks/GlassBrick.java
+ ir.amin.arkanoid.Bricks.GlassBrick
+ir/amin/arkanoid/GameFrame.java
+ ir.amin.arkanoid.GameFrame
+ir/amin/arkanoid/GameState/GameState.java
+ ir.amin.arkanoid.GameState.GameState
+ ir.amin.arkanoid.GameState.GameState$1
+ir/amin/arkanoid/Panels/ScoreBoardPanel.java
+ ir.amin.arkanoid.Panels.ScoreBoardPanel
+ir/amin/arkanoid/Prizes/PrizeType.java
+ ir.amin.arkanoid.Prizes.PrizeType
+ir/amin/arkanoid/Arkanoid.java
+ ir.amin.arkanoid.Arkanoid
+ir/amin/arkanoid/ModelLoader.java
+ ir.amin.arkanoid.ModelLoader
+ir/amin/arkanoid/Paddle.java
+ ir.amin.arkanoid.Paddle
+ir/amin/arkanoid/Commons.java
+ ir.amin.arkanoid.Commons
+ir/amin/arkanoid/ScoreState.java
+ ir.amin.arkanoid.ScoreState
+ir/amin/arkanoid/GameState/AddBricks.java
+ ir.amin.arkanoid.GameState.AddBricks
+ir/amin/arkanoid/ScoreBoard.java
+ ir.amin.arkanoid.ScoreBoard
+ir/amin/arkanoid/Bricks/InvisibleBrick.java
+ ir.amin.arkanoid.Bricks.InvisibleBrick
+ir/amin/arkanoid/Bricks/Brick.java
+ ir.amin.arkanoid.Bricks.Brick
+ir/amin/arkanoid/Ball.java
+ ir.amin.arkanoid.Ball
+ir/amin/arkanoid/Panels/MainPanel.java
+ ir.amin.arkanoid.Panels.MainPanel
+ir/amin/arkanoid/Panels/GamePanel.java
+ ir.amin.arkanoid.Panels.GamePanel
+ ir.amin.arkanoid.Panels.GamePanel$AL
